@@ -1,2 +1,2 @@
 My first readme
-thid line was updated from git hub
+this line was updated from git hub
